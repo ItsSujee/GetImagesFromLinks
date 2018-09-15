@@ -1,5 +1,5 @@
 # GetImagesFromLinks
-Will download Imagenet.org images from the URLs
+Will download Image-net.org images from the URLs
 
 Used to quickly download many categorized images for Machine Learning Classification 
 
